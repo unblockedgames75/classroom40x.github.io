@@ -4,10 +4,3 @@ defaults:
       path: ""
     values:
       layout: "default"
-      baseurl: "/"
-  -
-    scope:
-      path: "proxy"
-    values:
-      layout: "proxy"
-      baseurl: "/proxy"
